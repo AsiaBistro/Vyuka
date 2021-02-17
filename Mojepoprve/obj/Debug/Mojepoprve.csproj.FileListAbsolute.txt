@@ -1,0 +1,7 @@
+C:\Users\bizas\Documents\GitHub\Vyuka\Mojepoprve\bin\Debug\Mojepoprve.exe.config
+C:\Users\bizas\Documents\GitHub\Vyuka\Mojepoprve\bin\Debug\Mojepoprve.exe
+C:\Users\bizas\Documents\GitHub\Vyuka\Mojepoprve\bin\Debug\Mojepoprve.pdb
+C:\Users\bizas\Documents\GitHub\Vyuka\Mojepoprve\obj\Debug\Mojepoprve.csprojAssemblyReference.cache
+C:\Users\bizas\Documents\GitHub\Vyuka\Mojepoprve\obj\Debug\Mojepoprve.csproj.CoreCompileInputs.cache
+C:\Users\bizas\Documents\GitHub\Vyuka\Mojepoprve\obj\Debug\Mojepoprve.exe
+C:\Users\bizas\Documents\GitHub\Vyuka\Mojepoprve\obj\Debug\Mojepoprve.pdb
